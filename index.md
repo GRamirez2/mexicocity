@@ -8,14 +8,15 @@ title_m_2: City
 ## Friday (L/A arrive EP @ 3:30)
 
 * George will pick up from airport
-* interview Jarrod
-* dinner & drinks & EP quick tour
+* Larry interview Jarrod, George needs to coordinate a time and place
+* dinner, drinks & EP quick tour
 * stay at G/V building, room reserved
 
 ## Sat (arrive DF @ 6)
 
 #### @morning
 
+* Coffee in Casa Ramirez
 * Breakfast in EP
 
 #### @afternoon
