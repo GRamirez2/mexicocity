@@ -16,7 +16,7 @@ title_m_2: City
 
 #### @morning
 
-* Coffee in Casa Ramirez
+* Coffee at Casa Ramirez
 * Breakfast in EP
 
 #### @afternoon
