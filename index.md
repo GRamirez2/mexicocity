@@ -72,4 +72,4 @@ title_m_2: City
 
 ## Wednesday (L/A depart EP @ 11)
 
-* George take to aiport
+* George take to airport
