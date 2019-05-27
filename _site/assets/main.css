@@ -505,4 +505,15 @@ table {
     color: #099; }
 
 h1 {
-  font-family: 'Chango', cursive; }
+  font-family: 'Monoton', cursive, Verdana, Tahoma;
+  font-size: 4em; }
+
+h2 {
+  font-family: 'Chango', cursive,  Verdana, Tahoma; }
+
+@media only screen and (max-width: 600px) {
+  h1.desktop {
+    display: none; } }
+@media only screen and (min-width: 600px) {
+  h1.mobile {
+    display: none; } }
