@@ -40,7 +40,8 @@ title_m_2: City
 
 #### @evening
 
-* Dinner
+* Dinner at Café de Tacuba ?
+* [https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant](https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant "https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant")
 * Tequila
 
 ## Monday
