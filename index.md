@@ -12,6 +12,7 @@ title_m_2: City
 * dinner
 * drinks
 * stay at G/V building, room reserved
+* hi
 
 ## Sat (arrive DF @ 6)
 
