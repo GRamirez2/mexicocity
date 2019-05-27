@@ -34,7 +34,7 @@ title_m_2: City
 #### @morning
 
 * café
-* Teotichucan
+* Teotihuacan tour, need to set this up, may take a good part of the day
 
 #### @afternoon
 
