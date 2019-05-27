@@ -9,7 +9,8 @@ title_m_2: City
 
 * George will pick up from airport
 * Larry interview Jarrod, George needs to coordinate a time and place
-* dinner, drinks & EP quick tour
+* dinner, drinks & quick El Paso tour
+* maybe more drinks
 * stay at G/V building, room reserved
 
 ## Sat (arrive DF @ 6)
@@ -71,7 +72,7 @@ title_m_2: City
 
 ## Wednesday (L/A depart EP @ 11)
 
-* George take to airport
+* George will take to airport
 
 ### Some restaurant recommendations from a friend
 
