@@ -9,10 +9,8 @@ title_m_2: City
 
 * George will pick up from airport
 * interview Jarrod
-* dinner
-* drinks
+* dinner & drinks & EP quick tour
 * stay at G/V building, room reserved
-* hi
 
 ## Sat (arrive DF @ 6)
 
