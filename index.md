@@ -7,7 +7,7 @@ title_m_2: City
 ---
 ## Friday (L/A arrive EP @ 3:30)
 
-* George pick from airport
+* George will pick up from airport
 * interview Jarrod
 * dinner
 * drinks
