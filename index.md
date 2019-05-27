@@ -7,12 +7,11 @@ title_m_2: City
 ---
 ## Friday (L/A arrive EP @ 3:30)
 
-* George pick from aiport
+* George pick from airport
 * interview Jarrod
 * dinner
 * drinks
 * stay at G/V building, room reserved
-* hello this is a test
 
 ## Sat (arrive DF @ 6)
 
