@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mc
 title: Mexico City
 title_m_1: Mexico
 title_m_2: City

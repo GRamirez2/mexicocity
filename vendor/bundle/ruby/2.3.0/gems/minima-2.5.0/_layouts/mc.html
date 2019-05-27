@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include headMeta.html -%}
+
+  <body>
+    <h1 class="desktop" style=" margin: auto;">{{ page.title }}</h1>
+    <!-- mobile header -->
+    <h1 class="mobile" style=" margin: auto;">{{ page.title_m_1 }}</h1>
+    <h1 class="mobile" style=" margin: auto;">{{ page.title_m_2 }}</h1>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+
+  </body>
+
+</html>
