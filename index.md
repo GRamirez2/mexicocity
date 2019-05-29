@@ -34,21 +34,27 @@ title_m_2: City
 #### @morning
 
 * café
-* Teotihuacan tour, need to set this up, may take a good part of the day
 
 #### @afternoon
+
+* Tour of **XOCHIMILCO; COLORS AND FLAVORS**
+* Sun, Jun 9 · From 11:00 AM to 2:30 PM.11:00 AM – 2:30 PM
+* Avenida Mexico 5843 TAQUILLA DEL MUSEO, Ciudad de México, Ciudad de México 16030
+* Confirmation Number TANC3ZQF
 
 #### @evening
 
 * Dinner at Café de Tacuba ?
 * [https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant](https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant "https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant")
 * Tequila
+* TANC3ZQF
 
 ## Monday
 
 #### @morning
 
 * café
+* Teotihuacan tour, need to set this up, may take a good part of the day
 
 #### @afternoon
 
