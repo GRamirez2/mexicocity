@@ -92,3 +92,17 @@ Pujol they couldn't get reservations
 ### _MUSEO DOLORES OLMEDO/ XOCHIMILCO CANAL TOUR_
 
 [https://www.airbnb.com/experiences/201039?euid=a55f3b26-9067-1f10-a8fc-e7fb284bcc3a](https://www.airbnb.com/experiences/201039?euid=a55f3b26-9067-1f10-a8fc-e7fb284bcc3a "https://www.airbnb.com/experiences/201039?euid=a55f3b26-9067-1f10-a8fc-e7fb284bcc3a")
+
+Island of Dolls!!!! Visit after much tequila
+
+[https://www.atlasobscura.com/places/la-isla-de-las-munecas](https://www.atlasobscura.com/places/la-isla-de-las-munecas "https://www.atlasobscura.com/places/la-isla-de-las-munecas")
+
+From our niece and nephew - since our hotel is on la Reforma
+
+Biking on the Paseo de la Reforma on Sunday
+
+\-Every Sunday from 8:00 am until 2:00 pm the city shuts down the Paseo de la Reforma to all vehicle traffic and opens it to bikes, rollerbladers, runners, walkers, joggers, etc.
+
+\-We rented bikes from the bike shares that seem to be every block
+
+\-Cool way to see all the monuments
