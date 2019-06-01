@@ -10,49 +10,49 @@ title_m_2: City
 * George will pick up from airport
 * Drop off stuff at G&V building / room
 * Maybe quick El Paso driving tour
-* Audrey meet with Victoria for happy hour @5:45
-* Larry / George meet with Jarrod at Oasis @6:00
-* dinner, drinks
+* @5:45 Audrey meet with Victoria for happy hour
+* @6:00 Larry / George meet with Jarrod at Oasis CoWork
+* dinner, drinks @ G&Vs
 * maybe more drinks
 * stay at G/V building, room reserved
 
-## Sat (arrive DF @ 6)
-
-#### @morning in EP
+## Sat
 
 * Coffee / small breakfast at Casa Ramirez
-* Car service to Juarez airport (booked) - 9am
-* Flight @12:40pm
 
-#### @evening in DF
+#### @9:00 car service to Airport (booked)
 
-* Arrive 4:10pm
+* Executive Transport
+  * Alonso Juarez / Andrea Diaz de Leon
+  * 656-4-419-16-80
+  * 656-4-19-16-66
+  * executivetransport@ymail.com | logistics@yuso.mx
+* Flight to DF @12:40pm
+* Arrive 4:10 pm
 * Uber to hotel
 * Condesa df, Mexico City
   * Avenida Veracruz 102, Col. Condesa Mexico City
   * Distrio Federal 06700 Mexico
-* Dinner Reservation -- tbd
-* Tequila / Mescal  -- tbd
+
+#### Dinner @ Café de Tacuba (reservations ?)
+
+* Calle de Tacuba 28, Centro Histórico
+* [https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant](https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant "https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant")
 
 ## Sunday
 
-#### @morning
-
 * breakfast y café
 
-#### @afternoon
+#### @ 2:30 Tour of **XOCHIMILCO; COLORS AND FLAVORS**
 
-* Tour of **XOCHIMILCO; COLORS AND FLAVORS**
 * Sun, Jun 9 · From 11:00 AM to 2:30 PM.11:00 AM – 2:30 PM
   * Avenida Mexico 5843 TAQUILLA DEL MUSEO, Ciudad de México, Ciudad de México 16030
   * Confirmation Number TANC3ZQF
 
 #### @evening
 
-* Dinner at Café de Tacuba ?
-* [https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant](https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant "https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant")
-* Tequila
-* TANC3ZQF
+* Walking around street food? 
+* Tequila / Mescal Bar?
 
 ## Monday
 
