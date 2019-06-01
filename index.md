@@ -77,7 +77,7 @@ title_m_2: City
 * Late Street Food?
 * Tequila / Mescal Bar
 
-## Tuesday (depart DF @ 4)
+## Tuesday (depart DF @ 4:40)
 
 #### @morning
 
@@ -85,7 +85,7 @@ title_m_2: City
 * Mercado the Roma?
 
 
-* travel back to EL Paso @
+* travel back to EL Paso @time
 
 #### @evening
 
