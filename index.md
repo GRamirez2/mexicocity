@@ -20,7 +20,7 @@ title_m_2: City
 
 * Coffee / small breakfast at Casa Ramirez
 
-#### @9:00 car service to Airport (booked)
+#### @9:00am car service to Airport (booked)
 
 * Executive Transport
   * Alonso Juarez / Andrea Diaz de Leon
