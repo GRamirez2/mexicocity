@@ -38,6 +38,7 @@ title_m_2: City
 
 * Calle de Tacuba 28, Centro Histórico
 * [https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant](https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant "https://www.foodandwine.com/travel/cafe-de-tacuba-mexico-city-restaurant")
+* Tequila / Drinks
 
 ## Sunday
 
@@ -80,11 +81,11 @@ title_m_2: City
 
 #### @morning
 
-* café
+* Breakfast y café
+* Mercado the Roma?
 
-#### @afternoon
 
-* travel back to EL Paso
+* travel back to EL Paso @
 
 #### @evening
 
