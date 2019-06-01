@@ -26,7 +26,7 @@ title_m_2: City
   * Alonso Juarez / Andrea Diaz de Leon
   * 656-4-419-16-80
   * 656-4-19-16-66
-  * executivetransport@ymail.com | logistics@yuso.mx
+  * executivetransport@ymail.com or logistics@yuso.mx
 * Flight to DF @12:40pm
 * Arrive 4:10 pm
 * Uber to hotel
@@ -55,7 +55,7 @@ title_m_2: City
 
 * Walking around street food?
 * George's wants special Tortillas
-* Maizajo | Molino y Tortelleria
+* Maizajo, Molino y Tortelleria
   * [https://www.maizajo.com/](https://www.maizajo.com/ "https://www.maizajo.com/")
   * `Av Soledad 556, El Jaguey. Azcapotzalco`
 * Sweet Tooth? Yes please
