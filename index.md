@@ -52,16 +52,19 @@ title_m_2: City
 #### @evening
 
 * Walking around street food? 
+* Dinner at Contramar? (Roma)
+  * Calle de Durango 200, Roma Nte., [06700](tel:06700) 
+  * Cuauhtémoc, CDMX, Mexico
+  * [+52 55 5514 9217](tel:+52%2055%205514%209217)
 * Tequila / Mescal Bar?
 
 ## Monday
 
-#### @morning
+* breakfast y café
 
-* café
-* Teotihuacan tour, need to set this up, may take a good part of the day
+#### @early, Uber to Teotihuacan
 
-#### @afternoon
+* discover Teotihuacan
 
 #### @evening
 
