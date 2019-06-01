@@ -53,9 +53,9 @@ title_m_2: City
 
 #### @evening
 
-* Walking around street food? 
+* Walking around street food?
 * Dinner at Contramar? (Roma)
-  * Calle de Durango 200, Roma Nte., [06700](tel:06700) 
+  * Calle de Durango 200, Roma Nte., [06700](tel:06700)
   * Cuauhtémoc, CDMX, Mexico
   * [+52 55 5514 9217](tel:+52%2055%205514%209217)
 * Tequila / Mescal Bar?
@@ -74,6 +74,7 @@ title_m_2: City
   * Tennyson #133 Polanco IV Sección, Miguel Hidalgo, Ciudad de México
 
     01 55 5545 4111
+  * Confirmation #13141
 * Late Street Food?
 * Tequila / Mescal Bar
 
@@ -83,8 +84,6 @@ title_m_2: City
 
 * Breakfast y café
 * Mercado the Roma?
-
-
 * travel back to EL Paso @time
 
 #### @evening
