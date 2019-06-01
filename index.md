@@ -8,39 +8,44 @@ title_m_2: City
 ## Friday (L/A arrive EP @ 3:30)
 
 * George will pick up from airport
-* Larry interview Jarrod, George needs to coordinate a time and place
-* dinner, drinks & quick El Paso tour
+* Drop off stuff at G&V building / room
+* Maybe quick El Paso driving tour
+* Audrey meet with Victoria for happy hour @5:45
+* Larry / George meet with Jarrod at Oasis @6:00
+* dinner, drinks
 * maybe more drinks
 * stay at G/V building, room reserved
 
 ## Sat (arrive DF @ 6)
 
-#### @morning
+#### @morning in EP
 
-* Coffee at Casa Ramirez
-* Breakfast in EP
+* Coffee / small breakfast at Casa Ramirez
+* Car service to Juarez airport (booked) - 9am
+* Flight @12:40pm
 
-#### @afternoon
+#### @evening in DF
 
-* Flight
-
-#### @evening
-
-* Dinner
-* Tequila
+* Arrive 4:10pm
+* Uber to hotel
+* Condesa df, Mexico City
+  * Avenida Veracruz 102, Col. Condesa Mexico City
+  * Distrio Federal 06700 Mexico
+* Dinner Reservation -- tbd
+* Tequila / Mescal  -- tbd
 
 ## Sunday
 
 #### @morning
 
-* café
+* breakfast y café
 
 #### @afternoon
 
 * Tour of **XOCHIMILCO; COLORS AND FLAVORS**
 * Sun, Jun 9 · From 11:00 AM to 2:30 PM.11:00 AM – 2:30 PM
-* Avenida Mexico 5843 TAQUILLA DEL MUSEO, Ciudad de México, Ciudad de México 16030
-* Confirmation Number TANC3ZQF
+  * Avenida Mexico 5843 TAQUILLA DEL MUSEO, Ciudad de México, Ciudad de México 16030
+  * Confirmation Number TANC3ZQF
 
 #### @evening
 
