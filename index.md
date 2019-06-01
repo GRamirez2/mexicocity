@@ -54,6 +54,14 @@ title_m_2: City
 #### @evening
 
 * Walking around street food?
+* George's wants special Tortillas
+* Maizajo | Molino y Tortelleria
+  * [https://www.maizajo.com/](https://www.maizajo.com/ "https://www.maizajo.com/")
+  * `Av Soledad 556, El Jaguey. Azcapotzalco`
+* Sweet Tooth? Yes please
+  * La Boheme
+  * [https://www.tripadvisor.com/Restaurant_Review-g150800-d7216026-Reviews-La_Boheme-Mexico_City_Central_Mexico_and_Gulf_Coast.html](https://www.tripadvisor.com/Restaurant_Review-g150800-d7216026-Reviews-La_Boheme-Mexico_City_Central_Mexico_and_Gulf_Coast.html "https://www.tripadvisor.com/Restaurant_Review-g150800-d7216026-Reviews-La_Boheme-Mexico_City_Central_Mexico_and_Gulf_Coast.html")
+* Dinner option - [https://www.opentable.com/r/amaya-mexico](https://www.opentable.com/r/amaya-mexico "https://www.opentable.com/r/amaya-mexico")
 * Dinner at Contramar? (Roma)
   * Calle de Durango 200, Roma Nte., [06700](tel:06700)
   * Cuauhtémoc, CDMX, Mexico
