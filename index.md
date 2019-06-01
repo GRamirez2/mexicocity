@@ -42,6 +42,7 @@ title_m_2: City
 ## Sunday
 
 * breakfast y café
+* Biking on the Paseo de la Reforma
 
 #### @ 2:30 Tour of **XOCHIMILCO; COLORS AND FLAVORS**
 
@@ -66,10 +67,14 @@ title_m_2: City
 
 * discover Teotihuacan
 
-#### @evening
+#### @ 4:00 Omakase Tacos by Pujol
 
-* Dinner
-* Tequila
+* This is the taco bar of the famous Pujol Restaurant
+  * Tennyson #133 Polanco IV Sección, Miguel Hidalgo, Ciudad de México
+
+    01 55 5545 4111
+* Late Street Food?
+* Tequila / Mescal Bar
 
 ## Tuesday (depart DF @ 4)
 
